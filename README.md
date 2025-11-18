@@ -1,6 +1,6 @@
 ## Project Based Experiments
-## Name : Sanjay V
-## Reg. No. : 212223230188
+## Name : Sarish Varshan V
+## Reg. No. : 212223230196
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
